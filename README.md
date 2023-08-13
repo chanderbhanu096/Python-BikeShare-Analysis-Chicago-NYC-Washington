@@ -13,6 +13,8 @@ As part of this project, you will utilize Python to explore data related to bike
 ### Library or Programming languages Uses
 Python, Pandas
 
+### Software Requirements
+Pyhton 
 
 ### Credits
 Udacity
