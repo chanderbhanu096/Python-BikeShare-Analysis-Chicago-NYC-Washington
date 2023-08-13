@@ -151,7 +151,7 @@ def user_stats(df):
         print(df['Gender'].value_counts().to_frame())
     
 
-    
+    # Unncessary comment 2
 
     if "Birth Year" in df:
         # Display earliest, most recent, and most common year of birth
@@ -171,8 +171,6 @@ def user_stats(df):
 def display_data(df):
     print('\nYou can check the raw data below...\n')
     i = 0
-
-    # I DON'T WHAT SHOULD I DO TO REFACTORE THIS CODE THERE IS NOTHING LEFT FOR NOW
     while True:
         user_input = input('Would you like to view the first 5 rows of data? Please enter "yes" or "no": ').lower()
         if user_input not in ['yes', 'no']:
