@@ -10,6 +10,10 @@ As part of this project, you will utilize Python to explore data related to bike
 ### Files used
 `new_york_city.csv`, `chicago.csv`, `washington.csv`
 
+### Library or Programming languages Uses
+Python, Pandas
+
+
 ### Credits
 Udacity
 
