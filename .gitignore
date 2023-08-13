@@ -1,1 +1,5 @@
 .github/**
+# Ingores all the .csv files in the directory
+*.csv
+# Ignoring .vscode directory
+.vscode
